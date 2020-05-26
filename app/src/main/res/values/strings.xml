@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Party size (max 99)</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+    <string name="hello">Hello World, ListPreferenceTest!</string>
+
+    <string name="pref_color_key">color</string>
+    <string name="pref_color_label">Background Color</string>
+
+
+    <string name="pref_color_label_red">Red</string>
+    <!-- Label for blue color preference -->
+    <string name="pref_color_label_blue">Blue</string>
+    <!-- Label for green color preference -->
+    <string name="pref_color_label_green">Green</string>
+    <!-- Value in SharedPreferences for red color option -->
+    <string name="pref_color_red_value" translatable="false">#F44336</string>
+    <!-- Value in SharedPreferences for blue color option -->
+    <string name="pref_color_blue_value" translatable="false">#2894FF</string>
+    <!-- Value in SharedPreferences for green color option -->
+    <string name="pref_color_green_value" translatable="false">#01B468</string>
+
+
+
+</resources>
